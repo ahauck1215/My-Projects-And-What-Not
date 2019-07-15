@@ -199,3 +199,14 @@
   }
   table, th, td {
     border: 1px solid White;}
+    img {
+      height: 100px; width: 200px; overflow: hidden;
+  }
+  
+  
+  .carousel-inner > .item > img {
+    margin: 0 auto;
+  }
+  .carousel-inner{
+      background-color: teal;
+  }
